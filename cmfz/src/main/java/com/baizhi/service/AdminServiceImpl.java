@@ -27,5 +27,7 @@ public class AdminServiceImpl implements AdminService {
     public void modfiy(Admin admin){
         logger.debug("密码修改为"+admin.getPassword());
         adminDao.modfiy(admin);
+
+        System.out.println("11");
     }
 }
