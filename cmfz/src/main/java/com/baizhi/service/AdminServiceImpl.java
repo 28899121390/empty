@@ -28,6 +28,6 @@ public class AdminServiceImpl implements AdminService {
         logger.debug("密码修改为"+admin.getPassword());
         adminDao.modfiy(admin);
 
-        System.out.println("11aaaaaaaZsaasdasd");
+        System.out.println("11aaaaaaaZsaasdasdasdfasdfsdfsdfsdf");
     }
 }
