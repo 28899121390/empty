@@ -1,7 +1,7 @@
 package com.baizhi.service;
 
 import com.baizhi.entity.Admin;
-import org.apache.ibatis.annotations.Param;
+
 
 /**
  * Created by skl on 2018/5/29.

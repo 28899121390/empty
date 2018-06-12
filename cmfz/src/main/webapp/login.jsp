@@ -33,7 +33,7 @@
 				//console.log(password);
 				$.ajax({
 					url:"${pageContext.request.contextPath}/admin/login",
-					dataType:"json",
+					//dataType:"json",
 					data:{
 					    name:name,
                         password:password,
